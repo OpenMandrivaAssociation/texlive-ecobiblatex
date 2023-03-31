@@ -1,6 +1,6 @@
 Name:		texlive-ecobiblatex
 Version:	39233
-Release:	1
+Release:	2
 Summary:	Global Ecology and Biogeography BibLaTeX styles for the Biber backend
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ecobiblatex
