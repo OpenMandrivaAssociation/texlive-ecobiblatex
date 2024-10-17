@@ -3,7 +3,7 @@ Version:	39233
 Release:	2
 Summary:	Global Ecology and Biogeography BibLaTeX styles for the Biber backend
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ecobiblatex
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ecobiblatex
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ecobiblatex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ecobiblatex.doc.r%{version}.tar.xz
